@@ -14,6 +14,7 @@ body {
 }
 
 .text-primary {
+    /* yellow color */
     color: #fed136;
 }
 
@@ -35,6 +36,7 @@ a.active {
 }
 
 a {
+    /* yellow color */
     color: #fed136;
 }
 
@@ -69,11 +71,13 @@ h6 {
 }
 
 .btn-primary {
+    /* yellow color */
     border-color: #fed136;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
+    /* yellow color */
     background-color: #fed136;
 }
 
@@ -108,18 +112,18 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #fed136;
+    border-color: #fed136; /* yellow color */
     background-color: #fed136;
 }
 
 .btn-primary .badge {
-    color: #fed136;
+    color: #fed136; /* yellow color */
     background-color: #fff;
 }
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #fed136;
+    border-color: #fed136; /* yellow color */
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;

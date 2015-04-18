@@ -500,6 +500,10 @@ section h3.section-subheading {
     background-color: #fed136;
 }
 
+.timeline>li a:hover .timeline-image {
+    background-color: #fec503;
+}
+
 .timeline>li .timeline-image h4 {
     margin-top: 12px;
     font-size: 10px;
@@ -533,6 +537,11 @@ section h3.section-subheading {
 .timeline .timeline-heading h4 {
     margin-top: 0;
     color: inherit;
+}
+
+.timeline a h4 {
+    margin-top: 0;
+    color: white;
 }
 
 .timeline .timeline-heading h4.subheading {
